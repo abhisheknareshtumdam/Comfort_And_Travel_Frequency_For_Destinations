@@ -25,4 +25,4 @@ The dataset included categorical responses indicating the frequency of travel (e
 The analysis revealed that travelers are more comfortable with less frequent travel (e.g., once a year) within nearby regions. This insight can help travel-related businesses tailor their marketing strategies, offering solutions that align with customer preferences for travel frequency and destination proximity post-restrictions.
 
 ### **Overall Report**  
-Excel report [here](https://github.com/abhisheknareshtumdam/Financial_-_Operational_Decision_Making/blob/main/Resources/Financial%20and%20Operational%20Decision-Making%20with%20Excel.xlsx)
+Excel report [here](https://github.com/abhisheknareshtumdam/Comfort_And_Travel_Frequency_For_Destinations/blob/main/Resources/Comfort%20levels%20and%20travel%20frequency%20for%20various%20destinations.xlsx)
