@@ -1,4 +1,4 @@
-# **Travel Comfort and Frequency Analysis Post-Restrictions**
+# **Travel Comfort and Frequency Analysis Post-Pendamic**
 
 ## Project Overview
 This project analyzed the comfort levels and travel frequencies for various destinations (e.g., within a region, another province, internationally) once travel restrictions are lifted. The objective was to identify patterns in travelers' comfort levels across different trip frequencies (e.g., a few times a year, once a month) and understand the factors influencing their travel decisions.
